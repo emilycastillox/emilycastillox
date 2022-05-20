@@ -1,4 +1,6 @@
-<h1 align="center">Hola! 你好！👋  I'm Emily Castillo</h1>
+![github banner](https://user-images.githubusercontent.com/102037717/169436313-70497f28-0071-45bf-81af-66c657d6ecfb.png)
+
+<h1 align="center">Hello! Hola! 你好！👋  I'm Emily Castillo</h1>
 <h3 align="center">A full stack web developer from Boston, MA. Passion for languages, travel, DEI & a Latina in tech.</h3>
 
 - 🌱 I’m currently learning **Node.js, Express & MongoDB**
