@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emily Castillo</h1>
+<h1 align="center">Hola! 你好！ 👋 , I'm Emily Castillo</h1>
 <h3 align="center">A full stack web developer from Boston, MA. Passion for languages, travel, DEI & a Latina in tech.</h3>
 
 - 🌱 I’m currently learning **Node.js, Express & MongoDB**
