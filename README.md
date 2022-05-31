@@ -3,6 +3,8 @@
 <h1 align="center">Hello! Hola! 你好！👋  I'm Emily Castillo</h1>
 <h3 align="center">A full stack web developer from Boston, MA. Passion for languages, travel, DEI & a Latina in tech.</h3>
 
+![IMG_3181](https://user-images.githubusercontent.com/102037717/171070389-814205a1-1f3b-489e-a66b-046a7afde6a0.jpg)
+
 - 🌱 I’m currently learning **Node.js, Express & MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://emilycdev.netlify.app](https://emilycdev.netlify.app)
