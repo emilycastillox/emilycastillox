@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently working on **LianxiLib: a fullstack application with login for Chinese language learners**
 
-- 👨‍💻 All of my projects are available at [https://emilycdev.netlify.app](https://emilycdev.netlify.app)
+- 👨‍💻 Check out my portfolio: [https://emilycdev.netlify.app](https://emilycdev.netlify.app)
 
 - 💬 Ask me about **Languages - Mandarin, Spanish & More!**
 
-- 📫 How to reach me **emilycastillox@gmail.com**
+- 📫 Email me: **emilycastillox@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
