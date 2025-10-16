@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **Resilient Coders AI Powered Learning Tool: a fullstack application for bootcamp students to get personalized learning**
 
-- 👨‍💻 Check out my portfolio: [https://emilycdev.netlify.app](https://emilycdev.netlify.app)
+- 👨‍💻 Check out my portfolio: [https://emilycastillo.vercel.app/](https://emilycastillo.vercel.app/)
 
 - 💬 Ask me about **Languages - Mandarin, Spanish & More!**
 
