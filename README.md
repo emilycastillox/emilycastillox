@@ -3,7 +3,7 @@
 <h1 align="center">Hello! Hola! 你好！👋  I'm Emily Castillo</h1>
 <h3 align="center">A full stack web developer from Boston, MA. Passion for languages, travel, DEI & a Latina in tech.</h3>
 
-- 🌱 I’m currently working on **LianxiLib: a fullstack application with login for Chinese language learners**
+- 🌱 I’m currently working on **Resilient Coders AI Powered Learning Tool: a fullstack application for bootcamp students to get personalized learning**
 
 - 👨‍💻 Check out my portfolio: [https://emilycdev.netlify.app](https://emilycdev.netlify.app)
 
