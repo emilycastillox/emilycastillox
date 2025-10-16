@@ -1,24 +1,65 @@
 ![github banner](https://user-images.githubusercontent.com/102037717/169436313-70497f28-0071-45bf-81af-66c657d6ecfb.png)
 
-<h1 align="center">Hello! Hola! 你好！👋  I'm Emily Castillo</h1>
-<h3 align="center">A full stack web developer from Boston, MA. Passion for languages, travel, DEI & a Latina in tech.</h3>
+<h1 align="center">Hello! Hola! 你好！👋 I'm Emily Castillo</h1>
+<h3 align="center">Full Stack Web Developer from Boston, MA 🌎 | Passionate about languages, travel, DEI, and empowering others as a Latina in tech.</h3>
 
-- 🌱 I’m currently working on **Resilient Coders AI Powered Learning Tool: a fullstack application for bootcamp students to get personalized learning**
+---
 
-- 👨‍💻 Check out my portfolio: [https://emilycastillo.vercel.app/](https://emilycastillo.vercel.app/)
+### 👩‍💻 About Me
 
-- 💬 Ask me about **Languages - Mandarin, Spanish & More!**
+- 🌱 Currently building **Resilient Coders AI-Powered Learning Tool** — a fullstack app for personalized student learning  
+  <sub>Stack: Next.js, FastAPI, MongoDB, and AI model fine-tuning with PyTorch/FastAI.</sub>
 
-- 📫 Email me: **emilycastillox@gmail.com**
+- 💻 Portfolio: [https://emilycastillo.vercel.app/](https://emilycastillo.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/emilycdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emilycdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emilycastillox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilycastillox" height="30" width="40" /></a>
+- 💬 Ask me about: **Languages (Mandarin, Spanish, English), Fullstack Dev, and AI Integration**
+
+- 📫 Reach me: **emilycastillox@gmail.com**
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?logo=tailwindcss&logoColor=38B2AC&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-000000?logo=nodedotjs&logoColor=339933&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+
+  <!-- Backend / API -->
+  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=3776AB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?logo=fastapi&logoColor=009688&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ruby-000000?logo=ruby&logoColor=CC342D&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rails-000000?logo=rubyonrails&logoColor=D30001&style=for-the-badge" />
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=47A248&style=for-the-badge" />
+
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/PyTorch-000000?logo=pytorch&logoColor=EE4C2C&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAI-000000?logo=fastai&logoColor=5A2D81&style=for-the-badge" />
+
+  <!-- Cloud / Tools -->
+  <img src="https://img.shields.io/badge/AWS-000000?logo=amazonaws&logoColor=FF9900&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilycastillox&" alt="emilycastillox" /></p>
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/emilycdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=1DA1F2&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/emilycastillox" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0077B5&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilycastillox&theme=tokyonight" alt="GitHub streak" />
+</p>
 
